@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OOTetris.Tests/OOTetris.Tests.csproj" />
+  <Project Path="OOTetris/OOTetris.csproj" />
+</Solution>
